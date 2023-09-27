@@ -33,7 +33,7 @@ The prediction gives a quick sense of severity of a patient (member). This is va
 
 (6) Substantially grow ROI.
 
-In real world, this would not be the only tool at disposal. An well-informed decision would have to made by weighing predictions 
+In real world, this would not be the only tool at disposal. A well-informed decision would have to made by weighing predictions 
 of this model with other tools at disposal. For ex: Let's say a clinical team at the payer-end already has been using medical charts
 for selecting patients to contact for member intervention.
 After analyzing medical charts (also see https://github.com/nsb700/statistical-indexer-medical-charts), if the clinical team is able to find say 
